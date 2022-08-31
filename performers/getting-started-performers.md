@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: "Getting Started: Performers"
 nav_order: 1
 parent: Performers
 ---
