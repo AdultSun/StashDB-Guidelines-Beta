@@ -3,7 +3,7 @@ layout: default
 title: Performers
 nav_order: 3
 has_children: true
-permalink: docs/performers
+permalink: performers
 ---
 
 In addition to the sidebar on the right, the links below will take you to the broad categories within the Performers page. Additional links to more specific sections will also be listed after the jump. The **Getting Started** section covers all subjects relating to performers, but is limited to advice and explanations. Firm guidelines that you are expected to follow are instead found in the links directly below it. These cover more specific situations within each subject than the **Getting Started** sections. Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in the **#stashbox-general** or **#ministry-of-truth** channel on Discord.

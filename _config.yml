@@ -1,1 +1,39 @@
 remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+
+source: ./docs
+title: StashDB Guidelines
+description: A list of guidelines and suggestions for StashDB.org contributors, approved by the community.
+baseurl: "/StashDB-Guidelines-Beta"
+url: "https://adultsun.github.io/"
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+
+# Aux links for the upper right navigation
+aux_links:
+  "StashDB.org":
+    - "https://stashdb.org"
+
+# External navigation links
+nav_external_links:
+  - title: StashDB.org
+    url: https://stashdb.org
+
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+#footer_content: "Formatting for a link works like this: <a href=\"https://stashdb.org\">StashDB.org</a>"
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
