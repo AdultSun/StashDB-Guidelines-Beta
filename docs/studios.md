@@ -19,9 +19,9 @@ has_toc: false
 # **Studios: Overview**
 {: .no_toc }
 
-This page is an [overview]({% link index.md %}#category-overviews) for studio entries on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
+This page is an [overview]({% link docs/index.md %}#category-overviews) for studio entries on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
 
-The [Getting Started: Studios](getting-started-studios) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({% link index.md %}#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({% link getting-started-stashdb.md %}#joining-our-discord).
+The [Getting Started: Studios](getting-started-studios) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({% link docs/index.md %}#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({% link docs/getting-started-stashdb.md %}#joining-our-discord).
 
 ***
 
@@ -37,7 +37,7 @@ The [Getting Started: Studios](getting-started-studios) section covers all subje
 ***
 
 ## **[Getting Started: Studios](getting-started-studios)**
-The following sections are general advice and explanations for potentially confusing aspects in our database for studios. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link getting-started-stashdb.md %}#guideline-proposals).
+The following sections are general advice and explanations for potentially confusing aspects in our database for studios. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link docs/getting-started-stashdb.md %}#guideline-proposals).
 
 ### [Check Duplicate Studios](getting-started-studios#check-duplicate-studios)
   - **Search using keywords on "Studios" page.**
@@ -51,7 +51,7 @@ The following sections are general advice and explanations for potentially confu
 ***
 
 ## **[Adding Studios](adding-studios)**
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Banned Studios](adding-studios#banned-studios)
   - **No studios that repeatedly violate the consent of performers, including "Girls Do Porn" and its spin-off "Girls Do Toys".**
@@ -68,7 +68,7 @@ The following sections have been [formally approved]({% link getting-started-sta
 ***
 
 ## **[Studio Images](studio-images)**
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Seasonal Logos](studio-images#seasonal-logos)
   - **Temporary seasonal logos should not be used when a more permanent variation is available.**

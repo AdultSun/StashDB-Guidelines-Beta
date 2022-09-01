@@ -7,7 +7,7 @@ parent: Performers
 
 # **Getting Started: Performers**
 {: .no_toc }
-The following sections are general advice and explanations for potentially confusing aspects in our database for performers. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link getting-started-stashdb.md %}#guideline-proposals).
+The following sections are general advice and explanations for potentially confusing aspects in our database for performers. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link docs/getting-started-stashdb.md %}#guideline-proposals).
 
 ***
 
@@ -45,7 +45,7 @@ Images are currently ranked by size. This means the vertical image (portrait ori
 ### Performer Image Selection
 - **Variety is encouraged, allowing for different user preferences and easier identification from throughout a performer's career.**
 
-A variety of performer images is welcomed and encouraged. This includes different "looks" from throughout a performer's career as well as various crops and poses. Different hair styles and colors, different body types or ages, with clothes or without clothes, close-up headshots or full body portraits, facing towards the camera or facing away, etc. Images that include distinctive features like tattoos may help with easier identification as well. More options on StashDB means a greater likelihood that users can find an appropriate image for importing into Stash or for identifying performers. Just be sure that any images you add don't violate any of the [separate requirements listed below]({% link performers/performer-images.md %}).
+A variety of performer images is welcomed and encouraged. This includes different "looks" from throughout a performer's career as well as various crops and poses. Different hair styles and colors, different body types or ages, with clothes or without clothes, close-up headshots or full body portraits, facing towards the camera or facing away, etc. Images that include distinctive features like tattoos may help with easier identification as well. More options on StashDB means a greater likelihood that users can find an appropriate image for importing into Stash or for identifying performers. Just be sure that any images you add don't violate any of the [separate requirements listed below]({% link docs/performers/performer-images.md %}).
 
 ### Performer Edit Comments
 - **Say what you're doing, why you're doing it, and what your sources are.**
@@ -55,6 +55,6 @@ Regardless of what kind of edit you're submitting, always include in the comment
 ### Check Suspicious Names and Aliases
 - **Exercise caution with odd looking aliases, particularly those listed on FreeOnes.**
 
-Not all names and aliases listed on external sources are appropriate on StashDB. Aliases must have been used as an official adult credit somewhere to be eligible as a name or alias on StashDB. This disallows legal names in almost all instances. Please see [the relevant section of these guidelines]({% link performers/performer-names-and-aliases.md %}#eligible-performer-aliases) for more details on alias requirements.
+Not all names and aliases listed on external sources are appropriate on StashDB. Aliases must have been used as an official adult credit somewhere to be eligible as a name or alias on StashDB. This disallows legal names in almost all instances. Please see [the relevant section of these guidelines]({% link docs/performers/performer-names-and-aliases.md %}#eligible-performer-aliases) for more details on alias requirements.
 
 FreeOnes often uses false primary names for obscure performers as well as suspected legal names as aliases. Because FreeOnes disallows single name performers, some contributors bypass the limitation by fabricating longer names for single name performers. These usually consist of two single name aliases merged into one. FreeOnes will often list suspected legal names of performers. They are not always accurate and they are not always used publicly by the performer. These names are usually very different from the performer's other listed aliases and from typical adult performer names in general, especially when they include middle names. Be skeptical of any FreeOnes name that isn't listed anywhere else, especially if it's a combination of other aliases or if it doesn't seem like a typical adult stage name.

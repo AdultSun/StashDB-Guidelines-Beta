@@ -7,7 +7,7 @@ parent: Performers
 
 # Performer Images
 {: .no_toc }
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ***
 

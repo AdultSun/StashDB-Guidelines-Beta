@@ -21,9 +21,9 @@ has_toc: false
 # **Tags: Overview**
 {: .no_toc }
 
-This page is an [overview]({% link index.md %}#category-overviews) for tags on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
+This page is an [overview]({% link docs/index.md %}#category-overviews) for tags on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
 
-The [Getting Started: Tags](getting-started-tags) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({% link index.md %}#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({% link getting-started-stashdb.md %}#joining-our-discord).
+The [Getting Started: Tags](getting-started-tags) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({% link docs/index.md %}#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({% link docs/getting-started-stashdb.md %}#joining-our-discord).
 
 ***
 
@@ -39,7 +39,7 @@ The [Getting Started: Tags](getting-started-tags) section covers all subjects re
 ***
 
 ## **[Getting Started: Tags](getting-started-tags)**
-The following sections are general advice and explanations for potentially confusing aspects in our database for tags. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link getting-started-stashdb.md %}#guideline-proposals).
+The following sections are general advice and explanations for potentially confusing aspects in our database for tags. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link docs/getting-started-stashdb.md %}#guideline-proposals).
 
 ### [Picking Tags for a Scene](getting-started-tags#picking-tags-for-a-scene)
   - **Start small with "important" tags first, expand as you get more familiar with StashDB's list.**
@@ -80,7 +80,7 @@ The following sections are general advice and explanations for potentially confu
 ***
 
 ## **[Assigning Tags](assigning-tags)**
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Priority Sources for Tags](assigning-tags#priority-sources-for-tags)
   - **From highest to lowest: original video, official tube-site edits, trailers, screenshots, scraped tags, galleries, thumbnails, official descriptions, unofficial descriptions.**
@@ -88,7 +88,7 @@ The following sections have been [formally approved]({% link getting-started-sta
 ***
 
 ## **[Creating Tags](creating-tags)**
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [New Tag Requirements](creating-tags#new-tag-requirements)
   - **Must have a clear, helpful, and distinctive usage. Tags that can be scraped from somewhere are considered more helpful.**
@@ -99,7 +99,7 @@ The following sections have been [formally approved]({% link getting-started-sta
 ***
 
 ## **[Editing Tags](editing-tags)**
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [TBD](editing-tags#)
   - **TBD.**
@@ -107,7 +107,7 @@ The following sections have been [formally approved]({% link getting-started-sta
 ***
 
 ## **[Merging Tags](merging-tags)**
-The following sections have been [formally approved]({% link getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Merging Sorted Tags](merging-tags#merging-sorted-tags)
   - **"Sorted" tags (already has category/description) shouldn't be considered eligible to be deleted or merged. Ask on Discord first if you think you've found an exception.**
