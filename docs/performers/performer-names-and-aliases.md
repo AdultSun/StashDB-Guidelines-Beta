@@ -5,7 +5,7 @@ nav_order: 4
 parent: Performers
 ---
 
-# Performer Names and Aliases
+# **Performer Names and Aliases**
 {: .no_toc }
 The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 

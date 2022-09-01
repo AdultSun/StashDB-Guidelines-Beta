@@ -34,9 +34,9 @@ StashDB is not the only source of much of its metadata. When filling out informa
 ### Joining Our Discord
 - **Necessary for accessing StashDB, click link for details.**
 
-The Stash Discord server is your best bet for finding help and resources relating to Stash, Stash-Box, and StashDB. You will need to have a Discord account and join our server in order to [access StashDB](#accessing-stashdb). You could create a temporary throwaway account on Discord for this purpose if you'd like. However, if you would like to [contribute more than just hashes to StashDB](#contributing-to-stashdb), you will also be expected to be reachable on Discord.
+The Stash Discord server is your best bet for finding help and resources relating to Stash, Stash-Box, and StashDB. You will need to have a Discord account and join our server in order to [access StashDB](#accessing-stashdb). You could create a temporary throwaway account on Discord for this purpose if you'd like. However, if you would like to [contribute more than just hashes to StashDB](#contributing-to-stashdb), you will also be expected to be reachable on Discord. If you've already joined, the link is in the sidebar to the left.
 
-[The link to our Discord server can be found here.](https://discord.gg/2TsNFKt)
+[Click here to join our Discord server.](https://discord.gg/2TsNFKt)
 
 ### Accessing StashDB
 - **Must create an account, details found on Discord.**
