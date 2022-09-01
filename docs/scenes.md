@@ -23,9 +23,9 @@ has_toc: false
 # **Scenes: Overview**
 {: .no_toc }
 
-This page is an [overview]({% link docs/index.md %}#category-overviews) for scene entries on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
+This page is an [overview]({{ site.baseurl }}/docs/index/#category-overviews) for scene entries on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
 
-The [Getting Started: Scenes](getting-started-scenes) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({% link docs/index.md %}#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({% link docs/getting-started-stashdb.md %}#joining-our-discord).
+The [Getting Started: Scenes](getting-started-scenes) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({{ site.baseurl }}/docs/index/#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
 
 ***
 
@@ -41,7 +41,7 @@ The [Getting Started: Scenes](getting-started-scenes) section covers all subject
 ***
 
 ## **[Getting Started: Scenes](getting-started-scenes)**
-The following sections are general advice and explanations for potentially confusing aspects in our database for performers. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link docs/getting-started-stashdb.md %}#guideline-proposals).
+The following sections are general advice and explanations for potentially confusing aspects in our database for performers. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals).
 
 ### [Check Duplicate Scenes](getting-started-scenes#check-duplicate-scenes)
   - **Search using keywords, filters, and PHashes.**
@@ -55,7 +55,7 @@ The following sections are general advice and explanations for potentially confu
 ***
 
 ## **[Adding Scenes](adding-scenes)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Duplicate Scenes](adding-scenes#duplicate-scenes)
   - **No exact duplicates, prefer to keep entries with more fingerprints.**
@@ -69,7 +69,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Scene Performers](scene-performers)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Missing Scene Performers](scene-performers#missing-scene-performers)
   - **Must include performers listed anywhere on linked webpages, including descriptions.**
@@ -83,7 +83,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Scene Dates](scene-dates)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Preferred Scene Dates](scene-dates#preferred-scene-dates)
   - **Earliest known release date, or closest approximate date.**
@@ -91,7 +91,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Scene Titles](scene-titles)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Preferred Scene Titles](scene-titles#preferred-scene-titles)
   - **Original official scene titles are preferred.**
@@ -102,7 +102,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Scene Descriptions](scene-descriptions)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Preferred Scene Descriptions](scene-descriptions#preferred-scene-descriptions)
   - **Original official descriptions are preferred.**
@@ -116,7 +116,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Movies / DVDs](movies-dvds)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Full DVD Entries](#full-dvd-entries)
   - **Full movies only allowed for JAV releases or western releases available directly from official studio websites.**

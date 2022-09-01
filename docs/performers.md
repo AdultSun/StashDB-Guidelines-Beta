@@ -20,9 +20,9 @@ has_toc: false
 # **Performers: Overview**
 {: .no_toc }
 
-This page is an [overview]({% link docs/index.md %}#category-overviews) for performer profiles on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
+This page is an [overview]({{ site.baseurl }}/docs/index/#category-overviews) for performer profiles on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
 
-The [Getting Started: Performers](getting-started-performers) section covers all subjects relating to performers, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({% link docs/index.md %}#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({% link docs/getting-started-stashdb.md %}#joining-our-discord).
+The [Getting Started: Performers](getting-started-performers) section covers all subjects relating to performers, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({{ site.baseurl }}/docs/index/#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
 
 ***
 
@@ -38,7 +38,7 @@ The [Getting Started: Performers](getting-started-performers) section covers all
 ***
 
 ## **[Getting Started: Performers](getting-started-performers)**
-The following sections are general advice and explanations for potentially confusing aspects in our database for performers. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({% link docs/getting-started-stashdb.md %}#guideline-proposals).
+The following sections are general advice and explanations for potentially confusing aspects in our database for performers. Because they don't represent explicit decisions concerning database management or curation, they do not require [formal approval]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals).
 
 
 ### [Handling Ambiguous Performers](getting-started-performers#handling-ambiguous-performers)
@@ -65,7 +65,7 @@ The following sections are general advice and explanations for potentially confu
 ***
 
 ## **[Creating Performers](creating-performers)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Performer Eligibility](creating-performers#performer-eligibility)
 - **Must work with professional studios or have a verified account on at least one adult platform.**
@@ -73,7 +73,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Performer Images](performer-images)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Performer Aspect Ratio](performer-images#performer-aspect-ratio)
 - **2:3 ratio is preferred for vertical (portrait) images.**
@@ -99,7 +99,7 @@ The following sections have been [formally approved]({% link docs/getting-starte
 ***
 
 ## **[Performer Names and Aliases](performer-names-and-aliases)**
-The following sections have been [formally approved]({% link docs/getting-started-stashdb.md %}#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({% link docs/getting-started-stashdb.md %}#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
+The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
 ### [Preferred Performer Names](performer-names-and-aliases#preferred-performer-names)
 - **Prefer unique names over commonly used aliases, but otherwise no hard rules only suggestions.**
