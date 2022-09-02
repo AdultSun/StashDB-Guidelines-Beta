@@ -20,9 +20,9 @@ has_toc: false
 # **Performers: Overview**
 {: .no_toc }
 
-This page is an [overview]({{ site.baseurl }}/docs/index/#category-overviews) for performer profiles on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
+This page is an [overview]({{ site.baseurl }}/#category-overviews) for performer profiles on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
 
-The [Getting Started: Performers](getting-started-performers) section covers all subjects relating to performers, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({{ site.baseurl }}/docs/index/#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
+The [Getting Started: Performers](getting-started-performers) section covers all subjects relating to performers, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({{ site.baseurl }}/#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
 
 ***
 

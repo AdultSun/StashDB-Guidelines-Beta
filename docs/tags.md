@@ -21,9 +21,9 @@ has_toc: false
 # **Tags: Overview**
 {: .no_toc }
 
-This page is an [overview]({{ site.baseurl }}/docs/index/#category-overviews) for tags on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
+This page is an [overview]({{ site.baseurl }}/#category-overviews) for tags on StashDB **containing short summaries only**. More detailed information can be found with the "Quick Links" list above or the navigation tree on the left. Clicking the heading above each summary will also take you to the full version of the relevant section.
 
-The [Getting Started: Tags](getting-started-tags) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({{ site.baseurl }}/docs/index/#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
+The [Getting Started: Tags](getting-started-tags) section covers all subjects relating to scenes, but is limited to advice and explanations. Firm guidelines that you are expected to follow are found in the categories further below. These cover more specific situations within each subject than the [Getting Started sections]({{ site.baseurl }}/#getting-started-pages). Breaking them may risk rejected submissions. If you still have any questions, feel free to ask in **#stashdb-general** or **#ministry-of-truth** on [Discord]({{ site.baseurl }}/docs/getting-started-stashdb/#joining-our-discord).
 
 ***
 
@@ -101,7 +101,7 @@ The following sections have been [formally approved]({{ site.baseurl }}/docs/get
 ## **[Editing Tags](editing-tags)**
 The following sections have been [formally approved]({{ site.baseurl }}/docs/getting-started-stashdb/#guideline-proposals) unless stated otherwise. Contributors are still expected to follow any [unconfirmed guidelines]({{ site.baseurl }}/docs/getting-started-stashdb/#unconfirmed-guidelines), but should know that they are subject to change in the near future. Failure to follow any of these guidelines may result in rejected submissions.
 
-### [TBD](editing-tags#)
+### [Style Guide](editing-tags#style-guide)
   - **TBD.**
 
 ***
